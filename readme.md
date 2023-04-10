@@ -1,4 +1,4 @@
-## [N-SLAYER]
+## [N-LAYER]
 
 # API
 
@@ -32,7 +32,9 @@
 
 # Links
 
-- https://learn.microsoft.com/pt-br/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures
+- https://learn.microsoft.com/pt-br/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures PT
+- https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures EN
+- https://macoratti.net/21/05/net_cleanarqrev1.htm PT
 
 # EF Commands
 
